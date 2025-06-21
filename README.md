@@ -16,7 +16,7 @@ Here are some of the projects I've been working on:
 ### PPP
 2D Puzzle Platformer that uses portal mechanics
 
--[Steam Link](https://store.steampowered.com/app/2494990/PPP/)
+- [Steam Link](https://store.steampowered.com/app/2494990/PPP/)
 
 ### Procedural Climbing System
 
