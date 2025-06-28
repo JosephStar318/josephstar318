@@ -18,6 +18,21 @@ Here are some of the projects I've been working on:
 
 - [Steam Link](https://store.steampowered.com/app/2494990/PPP/)
 
+### Block Head Run
+Endless Runner With bridge building mechanic in a curved world 
+
+-[Github Link](https://github.com/JosephStar318/BlockHeadRun)
+
+### Dotted Lines
+Simple android game about connecting dots.
+
+-[Github Link](https://github.com/JosephStar318/Dotted-Lines)
+
+### Amusing Tetris
+A Tetris game
+
+-[Github Link](https://github.com/JosephStar318/AmusingTetris)
+
 ### Procedural Climbing System
 
 A procedural climbing system implementation
