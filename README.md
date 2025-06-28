@@ -16,12 +16,12 @@ Here are some of the projects I've been working on:
 ### PPP
 2D Puzzle Platformer that uses portal mechanics
 
-- [Steam Link](https://store.steampowered.com/app/2494990/PPP/)
+- [Steam](https://store.steampowered.com/app/2494990/PPP/)
 
 ### Block Head Run
 Endless Runner With bridge building mechanic in a curved world 
 
-- [Github Link](https://github.com/JosephStar318/BlockHeadRun)
+- [Github Repository](https://github.com/JosephStar318/BlockHeadRun)
 
 ### Dotted Lines
 Simple android game about connecting dots.
@@ -31,13 +31,13 @@ Simple android game about connecting dots.
 ### Amusing Tetris
 A Tetris game
 
-- [Github Link](https://github.com/JosephStar318/AmusingTetris)
+- [Github Repository](https://github.com/JosephStar318/AmusingTetris)
 
 ### Procedural Climbing System
 
 A procedural climbing system implementation
 
-- [Github Link](https://github.com/JosephStar318/Procedural-Climbing-System)
+- [Github Repository](https://github.com/JosephStar318/Procedural-Climbing-System)
 
 
 ### Procedural Terrain Generation
