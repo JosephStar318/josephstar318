@@ -26,7 +26,7 @@ Endless Runner With bridge building mechanic in a curved world
 ### Dotted Lines
 Simple android game about connecting dots.
 
-- [Github Link](https://github.com/JosephStar318/Dotted-Lines)
+- [Github Repository](https://github.com/JosephStar318/Dotted-Lines)
 
 ### Amusing Tetris
 A Tetris game
